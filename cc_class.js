@@ -21,7 +21,7 @@ function applyDiscount(products, discountRate) {
     ))
 }
 
-console.log(applyDIscount(products, .1))
+console.log(applyDiscount(products, .1))
 console.log("*".repeat(20))
 console.log(products)
 
