@@ -5,7 +5,7 @@ let products = [
 { name:  "Notebook", price: 5  , category: "Stationery"}
 ];
 
-function getProductsByCategory(product,s category) {
+function getProductsByCategory(products, category) {
     return products.filter(product => product.category === category)
 }
 
