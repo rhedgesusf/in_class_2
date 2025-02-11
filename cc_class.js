@@ -37,7 +37,7 @@ console.log(`Total Revenue 2024: $${calculateTotalRevenue(sales)}`);
 
 // Task 4 
 
-let emploee = {
+let employee = {
     name: "John Doe",
     salary: 50000,
     position: "Manager"
